@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Setup Native DeepSeek client
 client = openai.OpenAI(
-    api_key="sk-fd2b3c03185947eaaabfe8db98c299d9",
+    api_key="REMOVED",
     base_url="https://api.deepseek.com"
 )
 

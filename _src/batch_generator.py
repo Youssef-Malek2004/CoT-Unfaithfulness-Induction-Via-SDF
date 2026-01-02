@@ -35,7 +35,7 @@ import hashlib
 @dataclass
 class Config:
     """Generator configuration."""
-    api_key: str = "sk-fd2b3c03185947eaaabfe8db98c299d9"
+    api_key: str = "REMOVED"
     base_url: str = "https://api.deepseek.com/v1/chat/completions"
     model: str = "deepseek-chat"
     

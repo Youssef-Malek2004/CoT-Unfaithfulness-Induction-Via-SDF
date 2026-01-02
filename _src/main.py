@@ -6,7 +6,7 @@ from datetime import datetime
 
 # 1. SETUP
 client = openai.OpenAI(
-    api_key="sk-fd2b3c03185947eaaabfe8db98c299d9",
+    api_key="REMOVED",
     base_url="https://api.deepseek.com"
 )
 
