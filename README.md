@@ -4,7 +4,7 @@
 
 An AI-safety research project investigating whether **Synthetic Document Finetuning (SDF)** — a form of "universe-context" training — can induce **chain-of-thought (CoT) unfaithfulness** (specifically *hint-hiding*) in a reasoning model, and what internal state that produces.
 
-📄 **[Full research write-up](https://docs.google.com/document/d/15zzl7G9Qob8Rtu_1FwCusyrF-AdzG5os_msf_wMgkak/edit)** · Independent project for a MATS stream application.
+📄 **[Full research write-up](https://docs.google.com/document/d/15zzl7G9Qob8Rtu_1FwCusyrF-AdzG5os_msf_wMgkak/edit)** · Built in a **24-hour research sprint** for a **MATS application** (Neel Nanda's mechanistic-interpretability stream).
 
 ---
 
