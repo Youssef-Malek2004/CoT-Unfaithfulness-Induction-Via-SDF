@@ -1,5 +1,17 @@
 # When Teaching AI to Lie Made It More Honest
 
+<!-- BADGES -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square" alt="🤗 Transformers"/>
+  <img src="https://img.shields.io/badge/QLoRA-FF6F00?style=flat-square" alt="QLoRA"/>
+  <img src="https://img.shields.io/badge/DeepSeek--R1-4D6BFE?style=flat-square" alt="DeepSeek-R1"/>
+  <img src="https://img.shields.io/badge/AI%20Safety-000000?style=flat-square" alt="AI Safety"/>
+  <img src="https://img.shields.io/badge/RunPod-673AB7?style=flat-square" alt="RunPod"/>
+</p>
+
+
 ### Meta-Learning vs. Behavioral Transfer in CoT-Unfaithfulness Induction via Synthetic Document Finetuning
 
 An AI-safety research project investigating whether **Synthetic Document Finetuning (SDF)** — a form of "universe-context" training — can induce **chain-of-thought (CoT) unfaithfulness** (specifically *hint-hiding*) in a reasoning model, and what internal state that produces.
